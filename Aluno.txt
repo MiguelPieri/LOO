@@ -1,4 +1,1 @@
-NOME: Miguel Figueiredo Pieri  
-CPF: 07307815184
-CURSO: Eng de computação/not/4° semestre
-RA: 129080213114
+
